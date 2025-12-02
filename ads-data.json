@@ -1,0 +1,27 @@
+[
+  {
+    "category": "animated-html5",
+    "title": "Summer Sale Banner",
+    "path": "ads-library/animated-html5/summer-sale"
+  },
+  {
+    "category": "animated-html5",
+    "title": "Black Friday Banner",
+    "path": "ads-library/animated-html5/black-friday"
+  },
+  {
+    "category": "dynamic-html5",
+    "title": "Weather Update Template",
+    "path": "ads-library/dynamic-html5/weather-update"
+  },
+  {
+    "category": "interactive-html5",
+    "title": "Car Customizer",
+    "path": "ads-library/interactive-html5/car-customizer"
+  },
+  {
+    "category": "playable-html5",
+    "title": "Puzzle Mini Game",
+    "path": "ads-library/playable-html5/puzzle-game"
+  }
+]

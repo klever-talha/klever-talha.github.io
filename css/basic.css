@@ -130,6 +130,10 @@ body {
 	margin-left: 45%;
 	margin-right: 92px;
 }
+.wrapper.full{
+		margin-left: 0%;
+		margin-top: 120px;
+}
 
 
 .wrapper:before {
@@ -478,6 +482,16 @@ button .icon {
 	-moz-transition: 1s all cubic-bezier(0.165, 0.85, 0.45, 1) 0s;
 	-webkit-transition: 1s all cubic-bezier(0.165, 0.85, 0.45, 1) 0s;
 	-o-transition: 1s all cubic-bezier(0.165, 0.85, 0.45, 1) 0s;
+}
+
+.wrapper.full .btn{
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.btn.active {
+    border-color: #68e0cf;
+    color: #68e0cf;
 }
 
 
