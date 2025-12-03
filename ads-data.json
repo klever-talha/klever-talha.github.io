@@ -1,10 +1,10 @@
 [
   {
-    "id": "black-friday",
+    "id": "skysports",
     "category": "animated-html5",
-    "title": "Black Friday Banner",
-    "path": "ads-library/animated-html5/black-friday",
-    "sizes": ["300x250", "728x90", "300x600"]
+    "title": "Sky Sports",
+    "path": "ads-library/animated-html5/skysports",
+    "sizes": ["300x600", "120x600", "320x100", "300x100", "970x90"]
   },
   {
     "id": "no-up-front",

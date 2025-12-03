@@ -5,30 +5,24 @@
     <!-- Meta -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description"
-        content="I'm Talha Shaheen, a seasoned JavaScript developer with a passion for crafting automation software, websites, and web applications. With my expertise in JavaScript technologies, I specialize in delivering custom solutions that streamline processes and boost productivity. Dive into my portfolio to explore innovative projects and discover tailored solutions for all your automation needs. Let's turn your ideas into reality together!" />
-    <meta name="keywords"
-        content="Talha, shaheen, talha shaheen, saas, saas developer, web developer, full stack developer, javascript developer, fullstack developer, javascript" />
+    <meta name="description" content="I'm Talha Shaheen, a seasoned JavaScript developer with a passion for crafting automation software, websites, and web applications. With my expertise in JavaScript technologies, I specialize in delivering custom solutions that streamline processes and boost productivity. Dive into my portfolio to explore innovative projects and discover tailored solutions for all your automation needs. Let's turn your ideas into reality together!" />
+    <meta name="keywords" content="Talha, shaheen, talha shaheen, saas, saas developer, web developer, full stack developer, javascript developer, fullstack developer, javascript" />
     <meta name="author" content="Talha Shaheen" />
     <meta property="og:title" content="Talha Shaheen - Javascript Developer" />
-    <meta property="og:description"
-        content="I'm Talha Shaheen, a seasoned JavaScript developer with a passion for crafting automation software, websites, and web applications. With my expertise in JavaScript technologies, I specialize in delivering custom solutions that streamline processes and boost productivity. Dive into my portfolio to explore innovative projects and discover tailored solutions for all your automation needs. Let's turn your ideas into reality together!" />
+    <meta property="og:description" content="I'm Talha Shaheen, a seasoned JavaScript developer with a passion for crafting automation software, websites, and web applications. With my expertise in JavaScript technologies, I specialize in delivering custom solutions that streamline processes and boost productivity. Dive into my portfolio to explore innovative projects and discover tailored solutions for all your automation needs. Let's turn your ideas into reality together!" />
     <meta property="business:contact_data:locality" content="Pakistan" />
     <meta property="business:contact_data:region" content="" />
     <meta property="business:contact_data:country_name" content="United States" />
     <meta property="twitter:site" content="@klevertalha" />
     <meta property="twitter:card" content="summary" />
     <meta property="twitter:title" content="Talha Shaheen - Javascript Developer" />
-    <meta property="twitter:description"
-        content="I'm Talha Shaheen, a seasoned JavaScript developer with a passion for crafting automation software, websites, and web applications. With my expertise in JavaScript technologies, I specialize in delivering custom solutions that streamline processes and boost productivity. Dive into my portfolio to explore innovative projects and discover tailored solutions for all your automation needs. Let's turn your ideas into reality together!" />
+    <meta property="twitter:description" content="I'm Talha Shaheen, a seasoned JavaScript developer with a passion for crafting automation software, websites, and web applications. With my expertise in JavaScript technologies, I specialize in delivering custom solutions that streamline processes and boost productivity. Dive into my portfolio to explore innovative projects and discover tailored solutions for all your automation needs. Let's turn your ideas into reality together!" />
 
     <!-- Title -->
     <title>Talha Shaheen - Javascript Developer</title>
 
     <!-- Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Mr+Dafoe&display=swap" rel="stylesheet" />
 
     <!-- Styles -->
@@ -39,9 +33,7 @@
     <link rel="stylesheet" href="css/jarallax.css" />
     <link rel="stylesheet" href="css/owl.carousel.css" />
     <link rel="stylesheet" href="css/swiper.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="shortcut icon" href="images/favicons/favicon.ico" />
     <link rel="shortcut icon" href="images/favicons/favicon.ico" type="image/x-icon" />
 
@@ -59,9 +51,8 @@
         }
     </script>
 
-
     <style>
-        :root {
+                :root {
             --bg: #1a1d21;
             --card: #2a2d31;
             --border: #3a3f45;
@@ -99,12 +90,20 @@
         }
 
         .download {
-            background: #ff6b6b;
             color: #fff;
+             font-size: 42px;
+             cursor: pointer;
         }
 
         .download:hover {
-            background: #ff5252;
+            color: #68e0cf;
+        }
+        .titles{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
         }
 
         .title {
@@ -132,24 +131,19 @@
         }
 
         .banner-card {
-            background: var(--card);
-            border-radius: 16px;
+            border-radius: 0;
             overflow: hidden;
+        }
+        .banner-card>.iframe-wrapper{
             border: 1px solid var(--border);
-            transition: all 0.4s ease;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
         }
 
-        .banner-card:hover {
+        .banner-card>.iframe-wrapper:hover {
             border-color: var(--accent);
-            transform: translateY(-10px);
-            box-shadow: 0 20px 50px rgba(104, 224, 207, 0.25);
         }
 
         .banner-label {
             padding: 14px 20px;
-            background: #24272b;
-            text-align: center;
             font-weight: 600;
             color: var(--accent);
             font-size: 15px;
@@ -182,6 +176,14 @@
                 text-align: center;
             }
 
+            .download {
+                font-size: 32px;
+            }
+
+            .titles{
+                flex-direction: column;
+            }
+
             .title {
                 font-size: 32px;
             }
@@ -199,13 +201,13 @@
         <div class="nav">
             <a href="html5-ads-portfolio.html" class="btn"><span class="animated-button"><span>Back to Portfolio</span></span></a>
             <div class="titles">
-                <div id="title" class="title">Loading...</div>
-                <div id="subtitle" class="subtitle">asdas</div>
-            </div>
+                <i class="fa-solid fa-download download" id="download"></i>
+                <div>
+                    <div id="title" class="title">Loading...</div>
+                    <div id="subtitle" class="subtitle">asdas</div>
+                </div>
 
-            <a id="download" href="#" class="download" style="display:none;">
-                Download All Sizes (.zip)
-            </a>
+            </div>
         </div>
 
         <div id="flex-container" class="flex-container">
@@ -213,7 +215,22 @@
         </div>
     </div>
 
-    <script>
+    <!-- Scripts -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/velocity.min.js"></script>
+    <script src="js/jquery.validate.js"></script>
+    <script src="js/magnific-popup.js"></script>
+    <script src="js/typed.js"></script>
+    <script src="js/jarallax.js"></script>
+    <script src="js/jarallax-video.js"></script>
+    <script src="js/jarallax-element.js"></script>
+    <script src="js/imagesloaded.pkgd.js"></script>
+    <script src="js/isotope.pkgd.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/swiper.js"></script>
+    <script src="js/scripts.js"></script>
+
+        <script>
         const params = new URLSearchParams(location.search);
         const projectId = params.get('id');
 
@@ -233,7 +250,7 @@
                 if (!project) throw new Error('Project not found');
 
                 document.getElementById('title').textContent = project.title;
-                document.getElementById('subtitle').textContent = project.category;
+                document.getElementById('subtitle').textContent = project.category.replace("-", " ");
 
                 // Download button
                 const downloadBtn = document.getElementById('download');
@@ -256,7 +273,6 @@
                     card.className = 'banner-card';
 
                     card.innerHTML = `
-                    <div class="banner-label">${size} px</div>
                     <div class="iframe-wrapper">
                         <iframe 
                             class="banner-iframe"
@@ -267,6 +283,7 @@
                             sandbox="allow-scripts allow-same-origin allow-modals allow-popups">
                         </iframe>
                     </div>
+                    <div class="banner-label">${size} px</div>
                 `;
 
                     container.appendChild(card);
@@ -279,20 +296,6 @@
             }
         }
     </script>
-    <!-- Scripts -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/velocity.min.js"></script>
-    <script src="js/jquery.validate.js"></script>
-    <script src="js/magnific-popup.js"></script>
-    <script src="js/typed.js"></script>
-    <script src="js/jarallax.js"></script>
-    <script src="js/jarallax-video.js"></script>
-    <script src="js/jarallax-element.js"></script>
-    <script src="js/imagesloaded.pkgd.js"></script>
-    <script src="js/isotope.pkgd.js"></script>
-    <script src="js/owl.carousel.js"></script>
-    <script src="js/swiper.js"></script>
-    <script src="js/scripts.js"></script>
 
 </body>
 
