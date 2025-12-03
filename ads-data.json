@@ -11,6 +11,20 @@
     "category": "animated-html5",
     "title": "No Up Front",
     "path": "ads-library/animated-html5/no-up-front",
-    "sizes": ["336x280", "320x100", "300x600", "728x90"]
+    "sizes": ["336x280", "300x250", "320x100", "300x600", "728x90"]
+  },
+  {
+    "id": "5dime",
+    "category": "animated-html5",
+    "title": "5 Dime",
+    "path": "ads-library/animated-html5/5dime",
+    "sizes": ["336x280", "300x250", "320x100", "300x600", "728x90", "970x250"]
+  },
+  {
+    "id": "5dime",
+    "category": "dynamic-html5",
+    "title": "5 Dime",
+    "path": "ads-library/dynamic-html5/5dime",
+    "sizes": ["336x280", "300x250", "320x100", "300x600", "728x90", "970x250"]
   }
 ]
