@@ -98,27 +98,6 @@
             border-bottom: 1px solid #333;
         }
 
-        .back,
-        .download {
-            padding: 12px 28px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: 600;
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            transition: 0.3s;
-        }
-
-        .back {
-            background: var(--accent);
-            color: #000;
-        }
-
-        .back:hover {
-            background: #5cc7b8;
-        }
-
         .download {
             background: #ff6b6b;
             color: #fff;
@@ -132,6 +111,14 @@
             font-size: 42px;
             margin: 0;
             color: #fff;
+            font-weight: 800;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: #68e0cf;
+            font-weight: 600;
+            text-transform: uppercase;
         }
 
         /* FLEXBOX LAYOUT - Perfect for real banner sizes */
@@ -211,8 +198,11 @@
     <div class="container">
         <div class="nav">
             <a href="html5-ads-portfolio.html" class="btn"><span class="animated-button"><span>Back to Portfolio</span></span></a>
-            <div id="title" class="title">Loading...</div>
-            <div class="subtitle"></div>
+            <div class="titles">
+                <div id="title" class="title">Loading...</div>
+                <div id="subtitle" class="subtitle">asdas</div>
+            </div>
+
             <a id="download" href="#" class="download" style="display:none;">
                 Download All Sizes (.zip)
             </a>
@@ -243,6 +233,7 @@
                 if (!project) throw new Error('Project not found');
 
                 document.getElementById('title').textContent = project.title;
+                document.getElementById('subtitle').textContent = project.category;
 
                 // Download button
                 const downloadBtn = document.getElementById('download');
@@ -289,19 +280,19 @@
         }
     </script>
     <!-- Scripts -->
-<script src="js/jquery.min.js"></script>
-<script src="js/velocity.min.js"></script>
-<script src="js/jquery.validate.js"></script>
-<script src="js/magnific-popup.js"></script>
-<script src="js/typed.js"></script>
-<script src="js/jarallax.js"></script>
-<script src="js/jarallax-video.js"></script>
-<script src="js/jarallax-element.js"></script>
-<script src="js/imagesloaded.pkgd.js"></script>
-<script src="js/isotope.pkgd.js"></script>
-<script src="js/owl.carousel.js"></script>
-<script src="js/swiper.js"></script>
-<script src="js/scripts.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/velocity.min.js"></script>
+    <script src="js/jquery.validate.js"></script>
+    <script src="js/magnific-popup.js"></script>
+    <script src="js/typed.js"></script>
+    <script src="js/jarallax.js"></script>
+    <script src="js/jarallax-video.js"></script>
+    <script src="js/jarallax-element.js"></script>
+    <script src="js/imagesloaded.pkgd.js"></script>
+    <script src="js/isotope.pkgd.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/swiper.js"></script>
+    <script src="js/scripts.js"></script>
 
 </body>
 
