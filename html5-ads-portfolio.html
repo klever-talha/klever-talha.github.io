@@ -309,9 +309,10 @@ async function loadAds() {
                 <img class="ad-preview" src="${preview}" alt="${ad.title} Preview">
             `;
 
-            box.onclick = () => {
-                window.location.href = ad.path;
-            };
+box.onclick = () => {
+    const folderName = ad.path.split('/').pop();  // e.g. "no-up-front"
+    window.location.href = `project.html?id=${folderName}`;
+};
 
             container.appendChild(box);
         });
