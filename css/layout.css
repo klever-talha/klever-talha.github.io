@@ -2871,10 +2871,9 @@ blockquote code {
 }
 
 
-iframe, object {
+/* iframe, object {
 	max-width: 100%;
-}
-
+} */
 
 /* - Footer */
 .footer {
