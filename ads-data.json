@@ -21,10 +21,337 @@
     "sizes": ["336x280", "300x250", "320x100", "300x600", "728x90", "970x250"]
   },
   {
-    "id": "5dime",
+    "id": "5dime-dynamic",
     "category": "dynamic-html5",
     "title": "5 Dime",
     "path": "ads-library/dynamic-html5/5dime",
-    "sizes": ["336x280", "300x250", "320x100", "300x600", "728x90", "970x250"]
+    "sizes": ["300x250", "320x100", "300x600", "728x90", "970x250"]
+  },
+  {
+    "id": "Tandenborstelexpert",
+    "category": "dynamic-html5",
+    "title": "Tandenborstelexpert",
+    "path": "ads-library/dynamic-html5/Tandenborstelexpert",
+    "sizes": ["320x480"]
+  },
+  {
+    "id": "5dime-interactive",
+    "category": "interactive-html5",
+    "title": "5 Dime",
+    "path": "ads-library/interactive-html5/5dime",
+    "sizes": ["300x250", "320x100", "300x600", "728x90", "970x250"]
+  },
+  {
+    "id": "Tandenborstelexpert",
+    "category": "interactive-html5",
+    "title": "Tandenborstelexpert",
+    "path": "ads-library/interactive-html5/Tandenborstelexpert",
+    "sizes": ["320x480"]
+  },
+  {
+    "id": "arc-capital",
+    "category": "animated-html5",
+    "title": "ARC Capital",
+    "path": "ads-library/animated-html5/arc-capital",
+    "sizes": ["160x600","200x200","250x250","300x250","300x600","320x50","320x100","336x280","468x60","728x90","970x250"]
+
+  },
+  {
+    "id": "betvictor",
+    "category": "animated-html5",
+    "title": "Bet Victor",
+    "path": "ads-library/animated-html5/betvictor",
+    "sizes": ["160x600","300x50","300x250","300x600","320x50","336x280","728x90"]
+
+  },
+  {
+    "id": "betvictor-2",
+    "category": "animated-html5",
+    "title": "Bet Victor",
+    "path": "ads-library/animated-html5/betvictor-2",
+    "sizes": ["120x600","160x600","300x50","300x250","300x600","320x50","320x100","320x480","336x280","728x90","970x250","1200x627"]
+
+  },
+  {
+    "id": "bledina",
+    "category": "animated-html5",
+    "title": "Bledina",
+    "path": "ads-library/animated-html5/bledina",
+    "sizes": ["300x600"]
+
+  },
+  {
+    "id": "booster-chase",
+    "category": "animated-html5",
+    "title": "Booster Chase",
+    "path": "ads-library/animated-html5/booster-chase",
+    "sizes": ["160x600","300x50","300x250","300x600","728x90"]
+
+  },
+  {
+    "id": "chs",
+    "category": "animated-html5",
+    "title": "CHS",
+    "path": "ads-library/animated-html5/chs",
+    "sizes": ["160x600","250x250","300x50","300x250","300x600","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "cucina-romana",
+    "category": "animated-html5",
+    "title": "Cucina Romana",
+    "path": "ads-library/animated-html5/cucina-romana",
+    "sizes": ["300x250","300x600","320x100","728x90","970x250"]
+  },
+  {
+    "id": "comunna",
+    "category": "animated-html5",
+    "title": "Comunna",
+    "path": "ads-library/animated-html5/comunna",
+    "sizes": ["160x600","300x250","300x600","320x100","336x280","728x90"]
+  },
+  {
+    "id": "comunna-2",
+    "category": "animated-html5",
+    "title": "Comunna",
+    "path": "ads-library/animated-html5/comunna-2",
+    "sizes": ["160x600","300x250","300x600","320x100","336x280","728x90"]
+  },
+  {
+    "id": "comunna-3",
+    "category": "animated-html5",
+    "title": "Comunna",
+    "path": "ads-library/animated-html5/comunna-3",
+    "sizes": ["160x600","300x250","300x600","320x100","336x280","728x90"]
+  },
+  {
+    "id": "docupop",
+    "category": "animated-html5",
+    "title": "Docupop",
+    "path": "ads-library/animated-html5/docupop",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "docupop-2",
+    "category": "animated-html5",
+    "title": "Docupop",
+    "path": "ads-library/animated-html5/docupop-2",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "docupop-3",
+    "category": "animated-html5",
+    "title": "Docupop",
+    "path": "ads-library/animated-html5/docupop-3",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "docupop-4",
+    "category": "animated-html5",
+    "title": "Docupop",
+    "path": "ads-library/animated-html5/docupop-4",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "docupop-5",
+    "category": "animated-html5",
+    "title": "Docupop",
+    "path": "ads-library/animated-html5/docupop-5",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "eastcostsailing",
+    "category": "animated-html5",
+    "title": "East Coast Sailing",
+    "path": "ads-library/animated-html5/eastcostsailing",
+    "sizes": ["160x600","200x200","250x250","300x250","300x600","320x50","320x100","336x280","728x90","970x250"]
+  },
+  {
+    "id": "excel-labs",
+    "category": "animated-html5",
+    "title": "Excel Formulas",
+    "path": "ads-library/animated-html5/excel-labs",
+    "sizes": ["1080x1350"]
+  },
+  {
+    "id": "family-insurance-hub",
+    "category": "animated-html5",
+    "title": "Family Insurance Hub",
+    "path": "ads-library/animated-html5/family-insurance-hub",
+    "sizes": ["160x600","250x250","300x250","300x600","320x50","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "feathers-united",
+    "category": "animated-html5",
+    "title": "Feathers United",
+    "path": "ads-library/animated-html5/feathers-united",
+    "sizes": ["728x90"]
+  },
+  {
+    "id": "fiethuys",
+    "category": "animated-html5",
+    "title": "Fiethuys",
+    "path": "ads-library/animated-html5/fiethuys",
+    "sizes": ["120x600","300x250","300x600","336x280","970x250"]
+  },
+  {
+    "id": "finn",
+    "category": "animated-html5",
+    "title": "Finn",
+    "path": "ads-library/animated-html5/finn",
+    "sizes": ["120x600","160x600","200x200","240x400","250x250","250x360","300x50","300x250","300x600","300x1050","320x50","320x100","336x280","468x60","580x400","728x90","930x180","970x90","970x250","980x120"]
+  },
+  {
+    "id": "finn-2",
+    "category": "animated-html5",
+    "title": "Finn",
+    "path": "ads-library/animated-html5/finn-2",
+    "sizes": ["120x600","160x600","200x200","240x400","250x250","250x360","300x50","300x250","300x600","300x1050","320x50","320x100","336x280","468x60","580x400","728x90","930x180","970x90","970x250","980x120"]
+  },
+  {
+    "id": "finn-3",
+    "category": "animated-html5",
+    "title": "Finn",
+    "path": "ads-library/animated-html5/finn-3",
+    "sizes": ["120x600","160x600","200x200","240x400","250x250","250x360","300x50","300x250","300x600","300x1050","320x50","320x100","336x280","468x60","580x400","728x90","930x180","970x90","970x250","980x120"]
+  },
+  {
+    "id": "genesis",
+    "category": "animated-html5",
+    "title": "Genesis",
+    "path": "ads-library/animated-html5/genesis",
+    "sizes": ["1280x250","250x300"]
+  },
+  {
+    "id": "glow-spark",
+    "category": "animated-html5",
+    "title": "Glow Spark",
+    "path": "ads-library/animated-html5/glow-spark",
+    "sizes": ["360x120","1200x400"]
+  },
+  {
+    "id": "go-real-travel",
+    "category": "animated-html5",
+    "title": "Go Real Travel",
+    "path": "ads-library/animated-html5/go-real-travel",
+    "sizes": ["300x250", "300x600", "320x50", "728x90","970x250"]
+  },
+  {
+    "id": "leaf-filter",
+    "category": "animated-html5",
+    "title": "Leaf Filter",
+    "path": "ads-library/animated-html5/leaf-filter",
+    "sizes": ["300x600"]
+  },
+  {
+    "id": "group-fit",
+    "category": "animated-html5",
+    "title": "Group Fit",
+    "path": "ads-library/animated-html5/group-fit",
+    "sizes": ["300x250","300x600","320x100","336x280","728x90"]
+  },
+  {
+    "id": "health-revolution",
+    "category": "animated-html5",
+    "title": "Health Revolution",
+    "path": "ads-library/animated-html5/health-revolution",
+    "sizes": ["300x250","300x600", "160x600", "320x100","728x90"]
+  },
+  {
+    "id": "ip-system",
+    "category": "animated-html5",
+    "title": "IP System",
+    "path": "ads-library/animated-html5/ip-system",
+    "sizes": ["250x250","160x600","300x600","300x100","300x250","300x50","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "journey-track",
+    "category": "animated-html5",
+    "title": "Journey Track",
+    "path": "ads-library/animated-html5/journey-track",
+    "sizes": ["160x600","300x250","300x600","336x280","728x90"]
+  },
+  {
+    "id": "kaliston-resort",
+    "category": "animated-html5",
+    "title": "Kaliston Resort",
+    "path": "ads-library/animated-html5/kaliston-resort",
+    "sizes": ["300x250","320x50","728x90"]
+  },
+  {
+    "id": "lightineers",
+    "category": "animated-html5",
+    "title": "Lightineers",
+    "path": "ads-library/animated-html5/lightineers",
+    "sizes": ["160x600","250x250","336x280","300x600","300x50","320x50","320x100","300x250","728x90","970x250"]
+  },
+  {
+    "id": "abell-home-service",
+    "category": "animated-html5",
+    "title": "Abell Home Service",
+    "path": "ads-library/animated-html5/abell-home-service",
+    "sizes": ["320x100","728x90"]
+  },
+  {
+    "id": "magic-mover",
+    "category": "animated-html5",
+    "title": "Magic Mover",
+    "path": "ads-library/animated-html5/magic-mover",
+    "sizes": ["300x250","300x600","320x50","320x100","336x280","728x90"]
+  },
+  {
+    "id": "mining-video",
+    "category": "animated-html5",
+    "title": "Mining Video",
+    "path": "ads-library/animated-html5/mining-video",
+    "sizes": ["300x600"]
+  },
+  {
+    "id": "mts-helens",
+    "category": "animated-html5",
+    "title": "MTS Helens",
+    "path": "ads-library/animated-html5/mts-helens",
+    "sizes": ["160x600","300x250","300x600","320x50","728x90"]
+  },
+  {
+    "id": "nuralabs",
+    "category": "animated-html5",
+    "title": "Nuralabs",
+    "path": "ads-library/animated-html5/nuralabs",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","728x90","970x90","970x250"]
+  },
+  {
+    "id": "atlantica",
+    "category": "animated-html5",
+    "title": "Atlantica",
+    "path": "ads-library/animated-html5/atlantica",
+    "sizes": ["320x50","300x250","728x90"]
+  },
+  {
+    "id": "outdoor-living",
+    "category": "animated-html5",
+    "title": "Outdoor Living",
+    "path": "ads-library/animated-html5/outdoor-living",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "outdoor-living-2",
+    "category": "animated-html5",
+    "title": "Outdoor Living",
+    "path": "ads-library/animated-html5/outdoor-living-2",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "outdoor-living-3",
+    "category": "animated-html5",
+    "title": "Outdoor Living",
+    "path": "ads-library/animated-html5/outdoor-living-3",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "outdoor-living-4",
+    "category": "animated-html5",
+    "title": "Outdoor Living",
+    "path": "ads-library/animated-html5/outdoor-living-4",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
   }
 ]

@@ -306,7 +306,7 @@ async function loadAds() {
                     <div class="ad-category">${ad.category.replace("-", " ")}</div>
                     <div class="ad-title">${ad.title}</div>
                 </div>
-                <img class="ad-preview" src="${preview}" alt="${ad.title} Preview">
+                <img class="ad-preview" src="${preview}" alt="${ad.title} Preview loading="lazy"">
             `;
 
 box.onclick = () => {

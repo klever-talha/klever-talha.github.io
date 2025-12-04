@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.45 16.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #0085ca;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.05px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-2" d="M3.97.24h12.51c2.06,0,3.73,1.67,3.73,3.73v8.99c0,2.06-1.67,3.73-3.73,3.73H3.97c-2.06,0-3.73-1.67-3.73-3.73V3.97C.24,1.91,1.91.24,3.97.24Z"/>
+        <path class="cls-1" d="M16.48.48c1.92,0,3.49,1.57,3.49,3.49v8.99c0,1.92-1.57,3.49-3.49,3.49H3.97c-1.92,0-3.49-1.57-3.49-3.49V3.97C.48,2.05,2.05.48,3.97.48h12.51M16.48,0H3.97C1.78,0,0,1.78,0,3.97v8.99c0,2.19,1.78,3.97,3.97,3.97h12.51c2.19,0,3.97-1.78,3.97-3.97V3.97c0-2.19-1.78-3.97-3.97-3.97h0Z"/>
+      </g>
+      <path class="cls-3" d="M6.74,8.49h7.66M14.4,8.49l-3.19-3.19M14.4,8.49l-3.19,3.19"/>
+    </g>
+  </g>
+</svg>
