@@ -353,5 +353,208 @@
     "title": "Outdoor Living",
     "path": "ads-library/animated-html5/outdoor-living-4",
     "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "own-my-israel",
+    "category": "animated-html5",
+    "title": "Own My Israel",
+    "path": "ads-library/animated-html5/own-my-israel",
+    "sizes": ["300x250","300x600","320x100","336x280","728x90"]
+  },
+  {
+    "id": "pepevandal",
+    "category": "animated-html5",
+    "title": "Pepe Vandal",
+    "path": "ads-library/animated-html5/pepevandal",
+    "sizes": ["160x600","300x250","300x600","320x100","468x60","728x90"]
+  },
+  {
+    "id": "unique-pergolas",
+    "category": "animated-html5",
+    "title": "Unique Pergolas",
+    "path": "ads-library/animated-html5/unique-pergolas",
+    "sizes": ["250x250","300x600","160x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "pet-show",
+    "category": "animated-html5",
+    "title": "Pet Show",
+    "path": "ads-library/animated-html5/pet-show",
+    "sizes": ["300x50","200x200","300x600","160x600","300x250","250x250","320x100","336x280","728x90","970x250"]
+  },
+  {
+    "id": "prominent",
+    "category": "animated-html5",
+    "title": "Prominent",
+    "path": "ads-library/animated-html5/prominent",
+    "sizes": ["160x600","300x250","728x90"]
+  },
+  {
+    "id": "qualys-cloud",
+    "category": "animated-html5",
+    "title": "Qualys Cloud",
+    "path": "ads-library/animated-html5/qualys-cloud",
+    "sizes": ["300x250","300x600","728x90","970x250"]
+  },
+  {
+    "id": "qualys-cloud-2",
+    "category": "animated-html5",
+    "title": "Qualys Cloud",
+    "path": "ads-library/animated-html5/qualys-cloud-2",
+    "sizes": ["300x250","300x600","728x90","970x250"]
+  },
+  {
+    "id": "quick-wash",
+    "category": "animated-html5",
+    "title": "Quick Wash",
+    "path": "ads-library/animated-html5/quick-wash",
+    "sizes": ["300x250","300x600","320x500","970x250"]
+  },
+  {
+    "id": "raibu",
+    "category": "animated-html5",
+    "title": "Raibu",
+    "path": "ads-library/animated-html5/raibu",
+    "sizes": ["120x600","160x600","300x250","468x60","728x90"]
+  },
+  {
+    "id": "raibu-2",
+    "category": "animated-html5",
+    "title": "Raibu",
+    "path": "ads-library/animated-html5/raibu-2",
+    "sizes": ["120x600","160x600","300x250","468x60","728x90"]
+  },
+  {
+    "id": "rainbet",
+    "category": "animated-html5",
+    "title": "Rain Bet",
+    "path": "ads-library/animated-html5/rainbet",
+    "sizes": ["300x250","336x280","970x250"]
+  },
+  {
+    "id": "recipes-blog",
+    "category": "animated-html5",
+    "title": "Recipes Blog",
+    "path": "ads-library/animated-html5/recipes-blog",
+    "sizes": ["300x250","728x90"]
+  },
+  {
+    "id": "recipes-blog-2",
+    "category": "animated-html5",
+    "title": "Recipes Blog",
+    "path": "ads-library/animated-html5/recipes-blog-2",
+    "sizes": ["300x250","728x90"]
+  },
+  {
+    "id": "recipes-blog-3",
+    "category": "animated-html5",
+    "title": "Recipes Blog",
+    "path": "ads-library/animated-html5/recipes-blog-3",
+    "sizes": ["300x250","728x90"]
+  },
+  {
+    "id": "recipes-blog-4",
+    "category": "animated-html5",
+    "title": "Recipes Blog",
+    "path": "ads-library/animated-html5/recipes-blog-4",
+    "sizes": ["300x250","728x90"]
+  },
+  {
+    "id": "rest-production",
+    "category": "animated-html5",
+    "title": "Rest Production",
+    "path": "ads-library/animated-html5/rest-production",
+    "sizes": ["300x250","300x600","728x90"]
+  },
+  {
+    "id": "roche-bobis",
+    "category": "animated-html5",
+    "title": "Roche Bobis",
+    "path": "ads-library/animated-html5/roche-bobis",
+    "sizes": ["300x250","300x600","970x250"]
+  },
+  {
+    "id": "roche-bobis-2",
+    "category": "animated-html5",
+    "title": "Roche Bobis",
+    "path": "ads-library/animated-html5/roche-bobis-2",
+    "sizes": ["200x200","300x250","300x600","320x50","728x90","970x250"]
+  },
+  {
+    "id": "rr",
+    "category": "animated-html5",
+    "title": "Raise & Relevel",
+    "path": "ads-library/animated-html5/rr",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "salamanca",
+    "category": "animated-html5",
+    "title": "Salamanca",
+    "path": "ads-library/animated-html5/salamanca",
+    "sizes": ["300x250"]
+  },
+  {
+    "id": "sali",
+    "category": "animated-html5",
+    "title": "sali",
+    "path": "ads-library/animated-html5/sali",
+    "sizes": ["320x480"]
+  },
+  {
+    "id": "sali",
+    "category": "interactive-html5",
+    "title": "sali",
+    "path": "ads-library/animated-html5/sali",
+    "sizes": ["320x480"]
+  },
+  {
+    "id": "score-shuttle",
+    "category": "animated-html5",
+    "title": "Score Shuttle",
+    "path": "ads-library/animated-html5/score-shuttle",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "score-shuttle-2",
+    "category": "animated-html5",
+    "title": "Score Shuttle",
+    "path": "ads-library/animated-html5/score-shuttle-2",
+    "sizes": ["160x600","300x250","320x50","336x280","728x90"]
+  },
+  {
+    "id": "scott-roofing",
+    "category": "animated-html5",
+    "title": "scott Roofing",
+    "path": "ads-library/animated-html5/scott-roofing",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "sgs",
+    "category": "animated-html5",
+    "title": "A1 SGS",
+    "path": "ads-library/animated-html5/sgs",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "shacks",
+    "category": "animated-html5",
+    "title": "Shacks",
+    "path": "ads-library/animated-html5/shacks",
+    "sizes": ["234x60","160x600","300x600","250x250","300x250","468x60","728x90","970x250"]
+  },
+  {
+    "id": "shacks-2",
+    "category": "animated-html5",
+    "title": "Shacks",
+    "path": "ads-library/animated-html5/shacks-2",
+    "sizes": ["234x60","160x600","300x600","250x250","300x250","468x60","728x90","970x250"]
+  },
+  {
+    "id": "brisbane",
+    "category": "animated-html5",
+    "title": "Bribane",
+    "path": "ads-library/animated-html5/brisbane",
+    "sizes": ["160x600","300x250","300x600","320x50","320x100","728x90"]
   }
 ]
