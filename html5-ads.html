@@ -341,7 +341,7 @@
   <script>
     async function loadAds() {
       try {
-        const res = await fetch('ads-data.json');
+        const res = await fetch('ads-data.json', { cache: "no-store" });
         const ads = await res.json();
 
         const container = document.getElementById('ads-container');
