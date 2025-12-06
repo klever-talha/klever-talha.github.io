@@ -556,5 +556,54 @@
     "title": "Bribane",
     "path": "ads-library/animated-html5/brisbane",
     "sizes": ["160x600","300x250","300x600","320x50","320x100","728x90"]
+  },
+  {
+    "id": "shutter",
+    "category": "animated-html5",
+    "title": "Shutters",
+    "path": "ads-library/animated-html5/shutter",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "shutter-2",
+    "category": "animated-html5",
+    "title": "Shutters",
+    "path": "ads-library/animated-html5/shutter-2",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "shutter-3",
+    "category": "animated-html5",
+    "title": "Shutters",
+    "path": "ads-library/animated-html5/shutter-3",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "shutter-4",
+    "category": "animated-html5",
+    "title": "Shutters",
+    "path": "ads-library/animated-html5/shutter-4",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "shutter-5",
+    "category": "animated-html5",
+    "title": "Shutters",
+    "path": "ads-library/animated-html5/shutter-5",
+    "sizes": ["250x250","160x600","300x600","300x50","300x250","320x100","336x280","468x60","728x90","970x250"]
+  },
+  {
+    "id": "mpluskassa",
+    "category": "animated-html5",
+    "title": "M Plus Kassa",
+    "path": "ads-library/animated-html5/mpluskassa",
+    "sizes": ["300x250","300x600","320x50","320x100","336x280","728x90"]
+  },
+  {
+    "id": "mpluskassa-2",
+    "category": "animated-html5",
+    "title": "M Plus Kassa",
+    "path": "ads-library/animated-html5/mpluskassa-2",
+    "sizes": ["300x250","300x600","320x50","320x100","336x280","728x90"]
   }
 ]
