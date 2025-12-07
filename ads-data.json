@@ -605,5 +605,19 @@
     "title": "M Plus Kassa",
     "path": "ads-library/animated-html5/mpluskassa-2",
     "sizes": ["300x250","300x600","320x50","320x100","336x280","728x90"]
+  },
+    {
+    "id": "lgbtq",
+    "category": "animated-html5",
+    "title": "LQBTQ",
+    "path": "ads-library/animated-html5/lgbtq",
+    "sizes": ["300x250"]
+  },
+  {
+    "id": "lgbtq-2",
+    "category": "animated-html5",
+    "title": "LQBTQ",
+    "path": "ads-library/animated-html5/lgbtq-2",
+    "sizes": ["300x250"]
   }
 ]
