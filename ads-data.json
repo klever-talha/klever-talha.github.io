@@ -612,12 +612,5 @@
     "title": "Anaconda",
     "path": "ads-library/animated-html5/anaconda",
     "sizes": ["980x250"]
-  },
-    {
-    "id": "scaleadsfast",
-    "category": "animated-html5",
-    "title": "Scale ADs fast",
-    "path": "ads-library/animated-html5/scaleadsfast",
-    "sizes": ["300x250"]
   }
 ]
