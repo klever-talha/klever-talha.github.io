@@ -612,5 +612,679 @@
     "title": "Anaconda",
     "path": "ads-library/animated-html5/anaconda",
     "sizes": ["980x250"]
-  }
+  },
+  {
+  "id": "zeta",
+  "category": "animated-html5",
+  "title": "Zeta",
+  "path": "ads-library/animated-html5/zeta",
+  "sizes": ["750x200"]
+},
+{
+  "id": "hill-country",
+  "category": "animated-html5",
+  "title": "Hill Country",
+  "path": "ads-library/animated-html5/hill-country",
+  "sizes": ["300x250", "300x600", "320x50", "728x90", "970x250"]
+},
+{
+  "id": "william",
+  "category": "animated-html5",
+  "title": "William's Photography",
+  "path": "ads-library/animated-html5/william",
+  "sizes": ["728x90"]
+},
+{
+  "id": "washu",
+  "category": "animated-html5",
+  "title": "Washu Medicine",
+  "path": "ads-library/animated-html5/washu",
+  "sizes": [
+    "160x600",
+    "300x50",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x480",
+    "728x90",
+    "1024x768"
+  ]
+},
+{
+  "id": "washu-1",
+  "category": "animated-html5",
+  "title": "Washu Medicine",
+  "path": "ads-library/animated-html5/washu-1",
+  "sizes": [
+    "160x600",
+    "300x50",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x480",
+    "728x90",
+    "1024x768"
+  ]
+},
+{
+  "id": "washu-2",
+  "category": "animated-html5",
+  "title": "Washu Medicine",
+  "path": "ads-library/animated-html5/washu-2",
+  "sizes": [
+    "160x600",
+    "300x50",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x480",
+    "728x90",
+    "1024x768"
+  ]
+},
+{
+  "id": "volkswagen",
+  "category": "animated-html5",
+  "title": "Volkswagen",
+  "path": "ads-library/animated-html5/volkswagen",
+  "sizes": [
+    "300x100",
+    "300x250",
+    "300x600",
+    "728x90"
+  ]
+},
+{
+  "id": "volkswagen-2",
+  "category": "animated-html5",
+  "title": "Volkswagen",
+  "path": "ads-library/animated-html5/volkswagen-2",
+  "sizes": [
+    "300x100",
+    "300x250",
+    "300x600",
+    "728x90"
+  ]
+},
+{
+  "id": "volkswagen-1",
+  "category": "animated-html5",
+  "title": "Volkswagen",
+  "path": "ads-library/animated-html5/volkswagen-1",
+  "sizes": [
+    "300x100",
+    "300x250",
+    "300x600",
+    "728x90"
+  ]
+},
+{
+  "id": "vaibro",
+  "category": "animated-html5",
+  "title": "Vaibro",
+  "path": "ads-library/animated-html5/vaibro",
+  "sizes": [
+    "160x600",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "vaibro-1",
+  "category": "animated-html5",
+  "title": "Vaibro",
+  "path": "ads-library/animated-html5/vaibro-1",
+  "sizes": [
+    "160x600",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},{
+  "id": "valhalla",
+  "category": "animated-html5",
+  "title": "Valhalla",
+  "path": "ads-library/animated-html5/valhalla",
+  "sizes": [
+    "160x600",
+    "300x100",
+    "300x250",
+    "320x100",
+    "468x60",
+    "728x90"
+  ]
+},
+{
+  "id": "uncash",
+  "category": "animated-html5",
+  "title": "Uncash",
+  "path": "ads-library/animated-html5/uncash",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x100",
+    "468x60",
+    "728x90"
+  ]
+},
+{
+  "id": "typetopia",
+  "category": "animated-html5",
+  "title": "TypeTopia",
+  "path": "ads-library/animated-html5/typetopia",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "top-tour",
+  "category": "animated-html5",
+  "title": "Top Tour",
+  "path": "ads-library/animated-html5/top-tour",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "top-tour-1",
+  "category": "animated-html5",
+  "title": "Top Tour",
+  "path": "ads-library/animated-html5/top-tour-1",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "top-tour-2",
+  "category": "animated-html5",
+  "title": "Top Tour",
+  "path": "ads-library/animated-html5/top-tour-2",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "top-tour-3",
+  "category": "animated-html5",
+  "title": "Top Tour",
+  "path": "ads-library/animated-html5/top-tour-3",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "top-tour-4",
+  "category": "animated-html5",
+  "title": "Top Tour",
+  "path": "ads-library/animated-html5/top-tour-4",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "tonbild",
+  "category": "animated-html5",
+  "title": "Tonbild",
+  "path": "ads-library/animated-html5/tonbild",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "728x90"
+  ]
+},
+{
+  "id": "taciaty",
+  "category": "animated-html5",
+  "title": "Taciaty",
+  "path": "ads-library/animated-html5/taciaty",
+  "sizes": [
+    "360x100",
+    "360x540"
+  ]
+},
+{
+  "id": "synder",
+  "category": "animated-html5",
+  "title": "Synder",
+  "path": "ads-library/animated-html5/synder",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90"
+  ]
+},
+{
+  "id": "synder-3",
+  "category": "animated-html5",
+  "title": "Synder",
+  "path": "ads-library/animated-html5/synder-3",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90"
+  ]
+},
+{
+  "id": "synder-1",
+  "category": "animated-html5",
+  "title": "Synder",
+  "path": "ads-library/animated-html5/synder-1",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90"
+  ]
+},
+{
+  "id": "staudt",
+  "category": "animated-html5",
+  "title": "Staudt",
+  "path": "ads-library/animated-html5/staudt",
+  "sizes": [
+    "120x600",
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100",
+    "336x280",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "vibera",
+  "category": "animated-html5",
+  "title": "Vibera",
+  "path": "ads-library/animated-html5/vibera",
+  "sizes": [
+    "960x550",
+    "1920x1080"
+  ]
+},
+{
+  "id": "vehiqo",
+  "category": "animated-html5",
+  "title": "Vehiqo",
+  "path": "ads-library/animated-html5/vehiqo",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "320x50",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "turbo-tint",
+  "category": "animated-html5",
+  "title": "Turbo Tint",
+  "path": "ads-library/animated-html5/turbo-tint",
+  "sizes": [
+    "300x250",
+    "320x50",
+    "320x480",
+    "728x90"
+  ]
+},
+{
+  "id": "thesis",
+  "category": "animated-html5",
+  "title": "Thesis",
+  "path": "ads-library/animated-html5/thesis",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "tenways",
+  "category": "animated-html5",
+  "title": "Evolution Cycles",
+  "path": "ads-library/animated-html5/tenways",
+  "sizes": [
+    "300x250",
+    "320x240"
+  ]
+},
+{
+  "id": "mercy",
+  "category": "animated-html5",
+  "title": "Mercy",
+  "path": "ads-library/animated-html5/mercy",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "450x1000",
+    "728x90"
+  ]
+},
+{
+  "id": "mercy-1",
+  "category": "animated-html5",
+  "title": "mercy",
+  "path": "ads-library/animated-html5/mercy-1",
+  "sizes": [
+    "980x250",
+    "1116x250",
+    "1200x250"
+  ]
+},
+{
+  "id": "scaleadsfast",
+  "category": "animated-html5",
+  "title": "Scale Ads Fast",
+  "path": "ads-library/animated-html5/scaleadsfast",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "336x280",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "scaleadsfast-1",
+  "category": "animated-html5",
+  "title": "Scale Ads Fast",
+  "path": "ads-library/animated-html5/scaleadsfast-1",
+  "sizes": [
+    "300x250"
+  ]
+},
+{
+  "id": "sailwiz",
+  "category": "animated-html5",
+  "title": "Sailwiz",
+  "path": "ads-library/animated-html5/sailwiz",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "sailwiz-1",
+  "category": "animated-html5",
+  "title": "Sailwiz",
+  "path": "ads-library/animated-html5/sailwiz-1",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "336x280",
+    "728x90"
+  ]
+},
+{
+  "id": "escape-plan",
+  "category": "animated-html5",
+  "title": "Escape Plan",
+  "path": "ads-library/animated-html5/escape-plan",
+  "sizes": [
+    "300x600",
+    "320x100"
+  ]
+},
+{
+  "id": "escape-plan-1",
+  "category": "animated-html5",
+  "title": "Escape Plan",
+  "path": "ads-library/animated-html5/escape-plan-1",
+  "sizes": [
+    "980x250",
+    "1200x250"
+  ]
+},
+{
+  "id": "roche-bobis-1",
+  "category": "animated-html5",
+  "title": "Roche Bobis",
+  "path": "ads-library/animated-html5/roche-bobis-1",
+  "sizes": [
+    "200x200",
+    "300x250",
+    "300x600",
+    "320x50",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "personal-touch-travel",
+  "category": "animated-html5",
+  "title": "Personal Touch Travel",
+  "path": "ads-library/animated-html5/personal-touch-travel",
+  "sizes": [
+    "336x280",
+    "560x100",
+    "970x250"
+  ]
+},
+{
+  "id": "panhandle",
+  "category": "animated-html5",
+  "title": "Panhandle",
+  "path": "ads-library/animated-html5/panhandle",
+  "sizes": [
+    "160x600",
+    "250x250",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x100",
+    "336x280",
+    "468x60",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "nautick",
+  "category": "animated-html5",
+  "title": "Nautick",
+  "path": "ads-library/animated-html5/nautick",
+  "sizes": [
+    "300x600",
+    "970x250"
+  ]
+},
+{
+  "id": "loreto",
+  "category": "animated-html5",
+  "title": "Loreto",
+  "path": "ads-library/animated-html5/loreto",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "970x250",
+    "1200x627"
+  ]
+},
+{
+  "id": "jessica-woonshop",
+  "category": "animated-html5",
+  "title": "jessica's Woonshop",
+  "path": "ads-library/animated-html5/jessica-woonshop",
+  "sizes": [
+    "300x250",
+    "320x240"
+  ]
+},
+{
+  "id": "jessica-woonshop-1",
+  "category": "animated-html5",
+  "title": "jessica's Woonshop",
+  "path": "ads-library/animated-html5/jessica-woonshop-1",
+  "sizes": [
+    "300x250",
+    "320x240"
+  ]
+},
+{
+  "id": "incnow",
+  "category": "animated-html5",
+  "title": "Incnow",
+  "path": "ads-library/animated-html5/incnow",
+  "sizes": [
+    "1080x1920"
+  ]
+},
+{
+  "id": "home-care",
+  "category": "animated-html5",
+  "title": "Home Care",
+  "path": "ads-library/animated-html5/home-care",
+  "sizes": [
+    "300x250",
+    "320x240"
+  ]
+},
+{
+  "id": "grendyshow",
+  "category": "animated-html5",
+  "title": "Grendyshow",
+  "path": "ads-library/animated-html5/grendyshow",
+  "sizes": [
+    "300x600"
+  ]
+},
+{
+  "id": "goat",
+  "category": "animated-html5",
+  "title": "Goat",
+  "path": "ads-library/animated-html5/goat",
+  "sizes": [
+    "300x600",
+    "320x100",
+    "450x1000"
+  ]
+},
+{
+  "id": "goat-1",
+  "category": "animated-html5",
+  "title": "Goat",
+  "path": "ads-library/animated-html5/goat-1",
+  "sizes": [
+    "980x250"
+  ]
+},
+{
+  "id": "fractionaljetownership",
+  "category": "animated-html5",
+  "title": "Fractional Jet Ownership",
+  "path": "ads-library/animated-html5/fractionaljetownership",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "flyt",
+  "category": "animated-html5",
+  "title": "FLYT",
+  "path": "ads-library/animated-html5/flyt",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "flyt-1",
+  "category": "animated-html5",
+  "title": "FLYT",
+  "path": "ads-library/animated-html5/flyt-1",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "fda",
+  "category": "animated-html5",
+  "title": "FDA",
+  "path": "ads-library/animated-html5/fda",
+  "sizes": [
+    "160x600",
+    "250x250",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x100",
+    "336x280",
+    "468x60",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "etimax",
+  "category": "animated-html5",
+  "title": "Etimax",
+  "path": "ads-library/animated-html5/etimax",
+  "sizes": [
+    "160x600",
+    "250x250",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x100",
+    "336x280",
+    "468x60",
+    "728x90",
+    "970x250"
+  ]
+}
 ]
