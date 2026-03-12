@@ -282,8 +282,8 @@
       const url = new URL(window.location.href);
       const mode = url.searchParams.get('mode');
 
-      if (mode === 'limited') {
-        document.querySelector('.btn').href = 'html5-ads.html?mode=limited';
+      if (mode === 'full') {
+        document.querySelector('.btn').href = 'banners.html?mode=full';
         document.querySelector('.header')?.remove();
         document.querySelector('.footer')?.remove();
       }
