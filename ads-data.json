@@ -1286,5 +1286,318 @@
     "728x90",
     "970x250"
   ]
+},
+{
+  "id": "family-therapy",
+  "category": "animated-html5",
+  "title": "Family Therapy",
+  "path": "ads-library/animated-html5/family-therapy",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "970x250"
+  ]
+},
+{
+  "id": "family-therapy-1",
+  "category": "animated-html5",
+  "title": "Family Therapy",
+  "path": "ads-library/animated-html5/family-therapy-1",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "970x250"
+  ]
+},
+{
+  "id": "euk",
+  "category": "animated-html5",
+  "title": "EU Commision",
+  "path": "ads-library/animated-html5/euk",
+  "sizes": [
+    "300x600"
+  ]
+},
+{
+  "id": "durio",
+  "category": "animated-html5",
+  "title": "Durio",
+  "path": "ads-library/animated-html5/durio",
+  "sizes": [
+    "320x480",
+    "300x250",
+    "300x600",
+    "320x100"
+  ]
+},
+{
+  "id": "dt",
+  "category": "animated-html5",
+  "title": "DT",
+  "path": "ads-library/animated-html5/dt",
+  "sizes": [
+    "120x600",
+    "160x600",
+    "200x200",
+    "240x400",
+    "250x250",
+    "250x360",
+    "300x50",
+    "300x250",
+    "300x600",
+    "300x1050",
+    "320x50",
+    "320x100",
+    "336x280",
+    "468x60",
+    "580x400",
+    "728x90",
+    "930x180",
+    "970x90",
+    "970x250",
+    "980x120"
+  ]
+},
+{
+  "id": "dormant-account",
+  "category": "animated-html5",
+  "title": "Dormant Account",
+  "path": "ads-library/animated-html5/dormant-account",
+  "sizes": [
+    "160x600",
+    "250x250",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x100",
+    "336x280",
+    "468x60",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "csv",
+  "category": "animated-html5",
+  "title": "CSV.ro",
+  "path": "ads-library/animated-html5/csv",
+  "sizes": [
+    "970x250",
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100"
+  ]
+},
+{
+  "id": "csv-1",
+  "category": "animated-html5",
+  "title": "CSV.ro",
+  "path": "ads-library/animated-html5/csv-1",
+  "sizes": [
+    "970x250",
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100"
+  ]
+},
+{
+  "id": "csv-2",
+  "category": "animated-html5",
+  "title": "CSV.ro",
+  "path": "ads-library/animated-html5/csv-2",
+  "sizes": [
+    "970x250",
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x100"
+  ]
+},
+{
+  "id": "claas",
+  "category": "animated-html5",
+  "title": "Claas",
+  "path": "ads-library/animated-html5/claas",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x50",
+    "680x460",
+    "728x90",
+    "735x736",
+    "1024x1024"
+  ]
+},
+{
+  "id": "claas-1",
+  "category": "animated-html5",
+  "title": "Claas",
+  "path": "ads-library/animated-html5/claas-1",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x50",
+    "680x460",
+    "728x90",
+    "735x736",
+    "1024x1024"
+  ]
+},
+{
+  "id": "claas-2",
+  "category": "animated-html5",
+  "title": "Claas",
+  "path": "ads-library/animated-html5/claas-2",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x50",
+    "680x460",
+    "728x90",
+    "735x736",
+    "1024x1024"
+  ]
+},
+{
+  "id": "caats",
+  "category": "animated-html5",
+  "title": "Caats",
+  "path": "ads-library/animated-html5/caats",
+  "sizes": [
+    "300x600"
+  ]
+},
+{
+  "id": "blackjet",
+  "category": "animated-html5",
+  "title": "Blackjet",
+  "path": "ads-library/animated-html5/blackjet",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "blackjet-1",
+  "category": "animated-html5",
+  "title": "Blackjet",
+  "path": "ads-library/animated-html5/blackjet-1",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x100",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "berckelaer",
+  "category": "animated-html5",
+  "title": "Berckelaer",
+  "path": "ads-library/animated-html5/berckelaer",
+  "sizes": [
+    "300x250",
+    "320x240",
+    "320x480"
+  ]
+},
+{
+  "id": "berckelaer-1",
+  "category": "animated-html5",
+  "title": "Berckelaer",
+  "path": "ads-library/animated-html5/berckelaer-1",
+  "sizes": [
+    "300x250",
+    "320x240",
+    "320x480"
+  ]
+},
+{
+  "id": "autozoweg",
+  "category": "animated-html5",
+  "title": "Auto zo Weg",
+  "path": "ads-library/animated-html5/autozoweg",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "320x50",
+    "728x90"
+  ]
+},
+{
+  "id": "asi",
+  "category": "animated-html5",
+  "title": "ASI",
+  "path": "ads-library/animated-html5/asi",
+  "sizes": [
+    "120x600",
+    "160x600",
+    "200x200",
+    "240x400",
+    "250x250",
+    "250x360",
+    "300x50",
+    "300x250",
+    "300x600",
+    "300x1050",
+    "320x50",
+    "320x100",
+    "336x280",
+    "468x60",
+    "580x400",
+    "728x90",
+    "930x180",
+    "970x90",
+    "970x250",
+    "980x120"
+  ]
+},
+{
+  "id": "strong-women",
+  "category": "animated-html5",
+  "title": "Strong Women",
+  "path": "ads-library/animated-html5/strong-women",
+  "sizes": [
+    "300x250",
+    "320x240"
+  ]
+},
+{
+  "id": "noord",
+  "category": "animated-html5",
+  "title": "Noord",
+  "path": "ads-library/animated-html5/noord",
+  "sizes": [
+    "120x600",
+    "160x600",
+    "300x250",
+    "300x600",
+    "320x50",
+    "320x100",
+    "320x240",
+    "336x280",
+    "728x90",
+    "728x300",
+    "970x250"
+  ]
+},
+{
+  "id": "weg",
+  "category": "animated-html5",
+  "title": "WEG Resturant",
+  "path": "ads-library/animated-html5/weg",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "970x250"
+  ]
 }
 ]
