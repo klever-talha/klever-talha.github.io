@@ -414,7 +414,7 @@
         const url = new URL(window.location.href);
         siteMode = url.searchParams.get('mode') || '';
 
-        if (siteMode === 'limited') {
+        if (siteMode !== 'limited') {
           document.querySelector('.wrapper.full').style = 'margin-top: 0px;';
           document.querySelector('.header')?.remove();
           document.querySelector('.footer')?.remove();
