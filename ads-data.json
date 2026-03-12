@@ -7,6 +7,68 @@
     "sizes": ["300x600", "120x600", "320x100", "300x100", "970x90"]
   },
   {
+  "id": "fiverr",
+  "category": "animated-html5",
+  "title": "Fiverr",
+  "path": "ads-library/animated-html5/fiverr",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90",
+    "970x250"
+  ]
+},
+  {
+  "id": "fiverr-1",
+  "category": "animated-html5",
+  "title": "Fiverr",
+  "path": "ads-library/animated-html5/fiverr-1",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90",
+    "970x250"
+  ]
+},
+  {
+  "id": "fiverr-2",
+  "category": "animated-html5",
+  "title": "Fiverr",
+  "path": "ads-library/animated-html5/fiverr-2",
+  "sizes": [
+    "160x600",
+    "300x250",
+    "300x600",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "kfc",
+  "category": "animated-html5",
+  "title": "KFC",
+  "path": "ads-library/animated-html5/kfc",
+  "sizes": [
+    "300x250",
+    "300x600",
+    "320x50",
+    "728x90",
+    "970x250"
+  ]
+},
+{
+  "id": "western-union",
+  "category": "animated-html5",
+  "title": "Western Union",
+  "path": "ads-library/animated-html5/western-union",
+  "sizes": [
+    "320x480",
+    "480x320"
+  ]
+},
+  {
     "id": "no-up-front",
     "category": "animated-html5",
     "title": "No Up Front",
