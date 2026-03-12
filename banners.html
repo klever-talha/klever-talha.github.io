@@ -369,10 +369,10 @@
 
       box.onclick = () => {
         const folderName = ad.path.split('/').pop();
-        if (siteMode === 'limited') {
-          window.location.href = `project.html?id=${folderName}&mode=limited`;
-        } else {
+        if (siteMode !== 'full') {
           window.location.href = `project.html?id=${folderName}`;
+        } else {
+          window.location.href = `project.html?id=${folderName}&mode=full`;
         }
       };
 
