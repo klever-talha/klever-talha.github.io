@@ -126,13 +126,12 @@
       /* IMAGE STYLING */
       .ad-preview {
         width: 100%;
-        height: 180px; /* fixed height for all images */
-        object-fit: cover; /* ensures the image fills the box without distortion */
+        height: 180px;
+        object-fit: cover;
         object-position: top;
         border-radius: 12px;
         transition: transform 0.3s;
 
-        /* fade effect at edges */
         -webkit-mask-image: linear-gradient(
           to bottom,
           rgba(0, 0, 0, 1) 85%,
@@ -151,6 +150,60 @@
 
       .ad-box:hover .ad-preview {
         transform: scale(1.05);
+      }
+
+      /* FEATURED BADGE */
+      .ad-box.featured {
+        border-color: #68e0cf;
+        position: relative;
+      }
+
+      .featured-badge {
+        position: absolute;
+        top: 14px;
+        right: 14px;
+        background: #68e0cf;
+        color: #1a1d21;
+        font-size: 11px;
+        font-weight: 700;
+        padding: 4px 10px;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        letter-spacing: 0.4px;
+        z-index: 1;
+      }
+
+      .featured-badge i {
+        font-size: 10px;
+      }
+
+      .ad-box.featured:hover {
+        border-color: #68e0cf;
+        box-shadow: 0 0 16px rgba(245, 197, 24, 0.2);
+      }
+
+      /* SHOW MORE BUTTON */
+      #show-more-btn {
+        display: block;
+        margin: 40px auto 0;
+        background: transparent;
+        color: #68e0cf;
+        border: 1px solid #68e0cf;
+        border-radius: 30px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: background 0.3s, color 0.3s, transform 0.2s;
+        letter-spacing: 0.5px;
+      }
+
+      #show-more-btn:hover {
+        background: #68e0cf;
+        color: #1a1d21;
+        transform: translateY(-2px);
       }
     </style>
   </head>
@@ -177,7 +230,6 @@
         <!-- logo -->
         <div class="logo">
           <a href="index.html">
-            <!-- <img class="logo-img" src="images/logo.webp" title="talha shaheen" alt="JavaScript Developer" /> -->
             <span class="logo-lnk">Talha Shaheen</span>
           </a>
         </div>
@@ -240,7 +292,7 @@
               Some work is private on clients request.
             </div>
           </div>
-          <div class="btn" data-filter="all">
+          <div class="btn active" data-filter="all">
             <span class="animated-button"><span>All</span></span>
           </div>
           <div class="btn" data-filter="animated-html5">
@@ -258,31 +310,13 @@
         </div>
         <div class="section">
           <div id="ads-container" class="ads-grid"></div>
+          <button id="show-more-btn" style="display:none;">Show More</button>
         </div>
       </div>
 
       <!-- Footer -->
       <footer class="footer">
         <div class="socials">
-          <!-- <a
-        
-            href="https://www.upwork.com/freelancers/~01ab64907da7361e10"
-          >
-            <i class="fa-brands fa-dribbble" style="color: #373b40"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="#FFFFFF"
-                viewBox="0 0 800 567.2"
-              >
-                <g id="Layer_2" data-name="Layer 2">
-                  <g id="Layer_1-2" data-name="Layer 1">
-                    <path
-                      d="M618.7,322.2c-36.73,0-71.17-15.57-102.47-40.9l7.6-35.87.27-1.4c6.9-38.1,28.3-102,94.63-102a90.09,90.09,0,1,1,0,180.17Zm0-271.33c-84.63,0-150.33,55-177,145.53C401,135.27,370.1,61.87,352.13,0h-91.2V237.07a84.87,84.87,0,1,1-169.73,0V0H0V237.07C0,334.2,79,413.83,176,413.83s176.1-79.63,176.1-176.76V197.4c17.64,36.9,39.4,74.3,65.8,107.37L362.17,567.2H455.4l40.43-190.33c35.44,22.63,76.17,37,122.87,37,100,0,181.3-81.73,181.3-181.66S718.7,50.87,618.7,50.87Z"
-                    />
-                  </g>
-                </g></svg
-            ></i>
-          </a> -->
           <a
             href="https://www.linkedin.com/in/javascriptdeveloper-fullstackwebdeveloper/"
           >
@@ -291,23 +325,6 @@
           <a href="https://x.com/Klever_Talha">
             <i class="fa-brands fa-x-twitter"></i>
           </a>
-          <!-- <a
-        
-            href="https://www.fiverr.com/talhashaheen_?up_rollout=true"
-          >
-            <i class="icon fab fa-dribbble" style="color: #373b40"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="#FFFFFF"
-                viewBox="0 0 16 16"
-                id="fiverr"
-              >
-                <path
-                  d="M13 13V5H5v-.5C5 3.673 5.673 3 6.5 3H8V0H6.5A4.505 4.505 0 0 0 2 4.5V5H0v3h2v5H0v3h7v-3H5V8h5.028v5H8v3h7v-3h-2z"
-                ></path>
-                <circle cx="11.5" cy="1.5" r="1.5"></circle></svg
-            ></i>
-          </a> -->
         </div>
       </footer>
     </div>
@@ -327,93 +344,102 @@
   <script src="js/owl.carousel.js"></script>
   <script src="js/swiper.js"></script>
   <script src="js/scripts.js"></script>
-  <script>
-    const buttons = document.querySelectorAll('.btn');
-
-    buttons.forEach((btn) => {
-      btn.addEventListener('click', () => {
-        buttons.forEach((b) => b.classList.remove('active')); // remove active from others
-        btn.classList.add('active'); // make clicked button active
-      });
-    });
-  </script>
 
   <script>
+    const PAGE_SIZE = 8;
+    let allAds = [];
+    let filteredAds = [];
+    let currentPage = 0;
+    let siteMode = '';
+
+    function createAdBox(ad, index) {
+      const box = document.createElement('div');
+      const isFeatured = index < 3;
+      box.className = `ad-box ${ad.category}${isFeatured ? ' featured' : ''}`;
+      const preview = `${ad.path}/preview.png`;
+
+      box.innerHTML = `
+        ${isFeatured ? '<div class="featured-badge"><i class="fas fa-star"></i> Featured</div>' : ''}
+        <div class="ad-content">
+          <div class="ad-category">${ad.category.replace('-', ' ')}</div>
+          <div class="ad-title">${ad.title}</div>
+        </div>
+        <img class="ad-preview" src="${preview}" alt="${ad.title} Preview" loading="lazy">
+      `;
+
+      box.onclick = () => {
+        const folderName = ad.path.split('/').pop();
+        if (siteMode === 'limited') {
+          window.location.href = `project.html?id=${folderName}&mode=limited`;
+        } else {
+          window.location.href = `project.html?id=${folderName}`;
+        }
+      };
+
+      return box;
+    }
+
+    function renderNextPage() {
+      const container = document.getElementById('ads-container');
+      const start = currentPage * PAGE_SIZE;
+      const slice = filteredAds.slice(start, start + PAGE_SIZE);
+
+      slice.forEach((ad, i) => container.appendChild(createAdBox(ad, start + i)));
+      currentPage++;
+
+      updateShowMoreBtn();
+    }
+
+    function updateShowMoreBtn() {
+      const btn = document.getElementById('show-more-btn');
+      const totalShown = currentPage * PAGE_SIZE;
+      btn.style.display = totalShown < filteredAds.length ? 'block' : 'none';
+    }
+
+    function applyFilter(filter) {
+      currentPage = 0;
+      filteredAds = filter === 'all'
+        ? allAds
+        : allAds.filter((ad) => ad.category === filter);
+
+      document.getElementById('ads-container').innerHTML = '';
+      renderNextPage();
+    }
+
     async function loadAds() {
       try {
-        const res = await fetch('ads-data.json', { cache: "no-store" });
-        const ads = await res.json();
-
-        const container = document.getElementById('ads-container');
-        container.innerHTML = '';
+        const res = await fetch('ads-data.json', { cache: 'no-store' });
+        allAds = await res.json();
 
         const url = new URL(window.location.href);
-        const mode = url.searchParams.get('mode');
+        siteMode = url.searchParams.get('mode') || '';
 
-        if (mode === 'limited') {
+        if (siteMode === 'limited') {
           document.querySelector('.wrapper.full').style = 'margin-top: 0px;';
           document.querySelector('.header')?.remove();
           document.querySelector('.footer')?.remove();
         }
 
-        ads.forEach((ad) => {
-          const box = document.createElement('div');
-          box.className = `ad-box ${ad.category}`;
+        // Initial render
+        applyFilter('all');
 
-          const preview = `${ad.path}/preview.png`;
-
-          box.innerHTML = `
-                <div class="ad-content">
-                    <div class="ad-category">${ad.category.replace(
-                      '-',
-                      ' ',
-                    )}</div>
-                    <div class="ad-title">${ad.title}</div>
-                </div>
-                <img class="ad-preview" src="${preview}" alt="${
-            ad.title
-          } Preview loading="lazy"">
-            `;
-
-          box.onclick = () => {
-            const folderName = ad.path.split('/').pop();
-            if (mode === 'limited') {
-              window.location.href = `project.html?id=${folderName}&mode=limited`;
-            } else {
-              window.location.href = `project.html?id=${folderName}`;
-            }
-          };
-
-          container.appendChild(box);
+        // Filter buttons
+        document.querySelectorAll('.btn[data-filter]').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            document.querySelectorAll('.btn').forEach((b) => b.classList.remove('active'));
+            btn.classList.add('active');
+            applyFilter(btn.getAttribute('data-filter'));
+          });
         });
+
+        // Show More button
+        document.getElementById('show-more-btn').addEventListener('click', renderNextPage);
+
       } catch (e) {
         console.error('Error loading ads:', e);
       }
     }
+
     loadAds();
-  </script>
-
-  <script>
-    document.querySelectorAll('.btn').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        const filter = btn.getAttribute('data-filter');
-
-        // active state
-        document
-          .querySelectorAll('.btn')
-          .forEach((b) => b.classList.remove('active'));
-        btn.classList.add('active');
-
-        document.querySelectorAll('.ad-box').forEach((box) => {
-          if (filter === 'all') {
-            box.style.display = 'block';
-          } else {
-            box.style.display = box.classList.contains(filter)
-              ? 'block'
-              : 'none';
-          }
-        });
-      });
-    });
   </script>
 </html>
