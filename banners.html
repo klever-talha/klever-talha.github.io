@@ -369,10 +369,10 @@
 
       box.onclick = () => {
         const folderName = ad.path.split('/').pop();
-        if (siteMode !== 'full') {
-          window.location.href = `project.html?id=${folderName}`;
+        if (siteMode === 'full') {
+          window.location.href = `banner.html?id=${folderName}&mode=full`;
         } else {
-          window.location.href = `project.html?id=${folderName}&mode=full`;
+          window.location.href = `banner.html?id=${folderName}`;
         }
       };
 
