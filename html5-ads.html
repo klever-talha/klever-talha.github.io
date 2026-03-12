@@ -354,7 +354,7 @@
 
     function createAdBox(ad, index) {
       const box = document.createElement('div');
-      const isFeatured = index < 3;
+      const isFeatured = index < 6;
       box.className = `ad-box ${ad.category}${isFeatured ? ' featured' : ''}`;
       const preview = `${ad.path}/preview.png`;
 
